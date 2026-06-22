@@ -32,7 +32,7 @@ You can play the game directly by opening `index.html` in any modern web browser
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/tank-battle.git
+   git clone https://github.com/jnubobo/tank-battle.git
    ```
 2. Open `index.html` in your browser
 3. Start playing!
@@ -63,7 +63,10 @@ The game is built using:
 tank-battle/
 ├── index.html          # Main game file
 ├── README.md          # This documentation
-├── screenshot.png     # Game screenshot
+├── DEPLOYMENT.md      # GitHub deployment guide
+├── CHANGELOG.md       # Version history
+├── LICENSE           # MIT License
+├── screenshot.md     # Screenshot placeholder
 └── .gitignore        # Git ignore rules
 ```
 
@@ -100,10 +103,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Links
 
-- [Live Demo](#) *(Coming soon)*
-- [Issue Tracker](https://github.com/[your-username]/tank-battle/issues)
+- [Live Demo](https://jnubobo.github.io/tank-battle/) *(Enable GitHub Pages)*
+- [Issue Tracker](https://github.com/jnubobo/tank-battle/issues)
 - [Changelog](CHANGELOG.md)
 
 ---
 
-**Made with ❤️ by [Your Name]** | **Play now and battle your way to the top!**
+**Made with ❤️ by jnubobo** | **Play now and battle your way to the top!**
